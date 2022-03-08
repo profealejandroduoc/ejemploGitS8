@@ -1,2 +1,2 @@
-# Ejemplo de udo de Git
+# Ejemplo de uso de Git
 Este es solo un ejemplo
